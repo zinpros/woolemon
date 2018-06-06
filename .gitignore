@@ -23,3 +23,10 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+/target/
+/.git/
+/.idea/
+/.mvn/
+/mvnw
+/mvnw.cmd
+/woolemon.iml
